@@ -1,4 +1,1 @@
-Applying for top.gg. I will be commenting out the nsfw commaand help for the bot. i will un-comment it out
-when i am accepted. We will also have to uncomment the cog. we have to make sure they cant find a single trace of it.
-
 After we get accepted to top.gg, we are gonna make the commands list like the help command. the owner commands will not be part of it, the owner commands will be its own comand entirely so it will have no change.
