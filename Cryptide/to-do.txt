@@ -1,1 +1,1 @@
-After we get accepted to top.gg, we are gonna make the commands list like the help command. the owner commands will not be part of it, the owner commands will be its own comand entirely so it will have no change.
+I'm gonna make the commands list like the help command. the owner commands will not be part of it, the owner commands will be its own comand entirely so it will have no change.
