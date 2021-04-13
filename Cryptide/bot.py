@@ -78,6 +78,7 @@ bot.helps = [page1, page2, page3, page4, page5]
 
 #Defining Error Responses
 bot.responseMessages = {
+  # Error messages/handler originally made by NullPointer#3322
   "member_not_found": "Member \"{0}\" doesn't exist, {1}.",
   "command_not_found": "Command \"{0}\" doesn't exist, {1}.",
   "command_disabled": "Command \"{0}\" is disabled, {1}.",
@@ -121,7 +122,7 @@ for x in bot.Modules:
 
 #Non-Converted Listeners
 @bot.event
-async def on_command_error(ctx, error):
+async def on_command_error(ctx, error): # Made by NullPointer#3322
     if isinstance(error, commands.CommandNotFound):
       commandname = ctx.invoked_with
       cname = commandname.split(".")[0]
